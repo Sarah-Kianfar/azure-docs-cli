@@ -13,7 +13,7 @@ ms.custom: devx-track-azurecli
 
 # Update the Azure CLI
 
-You can rely on package managers to update a local install of the Azure CLI on Windows, macOS and Linux environments (see the `Update` section in each platform-specific install instruction). The CLI also provides in-tool commands to upgrade manually or automatically.
+You can rely on package managers to update a local install of the Azure CLI on Windows, macOS and Linux environments (see the **Update** section in each platform-specific install instruction). The CLI also provides in-tool commands to upgrade manually or automatically.
 
 ## Manual Update
 [!INCLUDE [az-upgrade](includes/az-upgrade.md)]
